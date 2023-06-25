@@ -1,0 +1,287 @@
+for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "LobbyBlock" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+
+	for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "Core" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+wait(1)
+for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "LobbyBlock" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+
+	for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "Core" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+wait(1)
+for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "LobbyBlock" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+
+	for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "Core" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+ wait(1)
+for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "LobbyBlock" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+
+	for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "Core" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+ wait(1)
+for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "LobbyBlock" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+
+	for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "Core" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+ wait(1)
+for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "LobbyBlock" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+
+	for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "Core" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+ wait(1)
+for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "LobbyBlock" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+
+	for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "Core" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+ wait(1)
+for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "LobbyBlock" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+
+	for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "Core" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+ wait(1)
+for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "LobbyBlock" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+
+	for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "Core" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+ wait(1)
+for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "LobbyBlock" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+
+	for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "Core" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+ wait(1)
+for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "LobbyBlock" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+
+	for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "Core" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+ wait(1)
+for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "LobbyBlock" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+
+	for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "Core" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+ wait(1)
+for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "LobbyBlock" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+
+	for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "Core" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+ wait(1)
+for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "LobbyBlock" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+
+	for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "Core" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+ wait(1)
+for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "LobbyBlock" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+
+	for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "Core" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+ wait(1)
+for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "LobbyBlock" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+
+	for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "Core" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+ wait(1)
+for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "LobbyBlock" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+
+	for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "Core" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+ wait(1)
+for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "LobbyBlock" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+
+	for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "Core" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+ wait(1)
+for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "LobbyBlock" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+
+	for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "Core" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+ wait(1)
+for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "LobbyBlock" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+
+	for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "Core" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+ wait(1)
+for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "LobbyBlock" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+
+	for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "Core" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+ wait(1)
+for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "LobbyBlock" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+
+	for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "Core" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+ wait(1)
+for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "LobbyBlock" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+
+	for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "Core" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	endwait(1)
+for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "LobbyBlock" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+
+	for i, v in pairs(game.Workspace.Regen.Ores:GetDescendants()) do
+		if v.Name == "Core" then
+			v.Position = game.Players.LocalPlayer.Character.HumanoidRootPart.Position
+		end
+	end
+ 
